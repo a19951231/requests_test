@@ -12,7 +12,7 @@ class Release_Interface(All_requests):
     def login(self):#登录接口
         a=Parameter1()
         url=Data("data.yaml","url")
-        data1="{\"credential\":{\"type\":\"PASSWORD\",\"value\":\"a19951231\"},\"username\":\"13189238839\",\"grant_type\":\"password\",\"scope\":\"\"}"
+        data1="{\"credential\":{\"type\":\"PASSWORD\",\"value\":\"密码\"},\"username\":\"账号\",\"grant_type\":\"password\",\"scope\":\"\"}"
         header={
             "Content-Type":a.pt('heards', 'value', 0),
             "channel":a.pt('heards', 'value', 1),
