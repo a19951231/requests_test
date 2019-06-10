@@ -17,7 +17,7 @@ class Release_Interface(All_requests):
             "Content-Type":a.pt('heards', 'value', 0),
             "channel":a.pt('heards', 'value', 1),
         }
-        a=All_requests.all_requests(self,"post",url+"system/serviceuser/basic/app/v2/nolog/loginByPassword",data1,header,"json")
+        a=All_requests.all_requests(self,"post",url+"system/serviceuser/basic/app/不知道/nolog/loginByPassword",data1,header,"json")
         Mysql().all_operate(1,a["data"]["access_token"],"登录的token",1)
         return a
     def foundation_template(self,value):#基础模板创建的接口
