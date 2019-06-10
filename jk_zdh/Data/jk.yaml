@@ -1,0 +1,1 @@
+wageConfig: {"basePay":"1700","insuranceAllowance":"","maxOTAllowance":"100","insuranceSource":"excel","maxOtAllowance":"","maxSocialAllowance":"100","salaryLoanDeduction":false,"minTotalPayAmount":"100","calculateCityBasePay":"default","whetherAccumulateCalculate":true,"IITExemption":5000,"includeQuota":"","quotaSource":"system","dataSource":"system"}

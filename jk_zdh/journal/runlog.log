@@ -1,0 +1,320 @@
+2019-06-06 16:21:49,343 mysql_pz.py[line:36] INFO cg
+2019-06-06 16:22:01,395 mysql_pz.py[line:36] INFO cg
+2019-06-06 16:22:31,806 mysql_pz.py[line:36] INFO cg
+2019-06-06 16:39:19,722 mysql_pz.py[line:18] ERROR 错误原因(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''value') values('6666')' at line 1")
+2019-06-06 16:40:29,684 mysql_pz.py[line:18] ERROR 错误原因(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''value','bz') values('6666','22')' at line 1")
+2019-06-06 16:41:11,963 mysql_pz.py[line:18] ERROR 错误原因(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id','value','bz') values('1','6666','22')' at line 1")
+2019-06-06 16:42:37,670 mysql_pz.py[line:18] ERROR 错误原因(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id','value','bz') values('1','6666','22')' at line 1")
+2019-06-06 16:42:42,033 mysql_pz.py[line:18] ERROR 错误原因(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id','value','bz') values('1','6666','22')' at line 1")
+2019-06-06 16:44:31,405 mysql_pz.py[line:18] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("3232")\' at line 1')
+2019-06-06 16:44:33,992 mysql_pz.py[line:18] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("3232")\' at line 1')
+2019-06-06 16:45:26,033 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("3232")\' at line 1')
+2019-06-06 16:46:38,995 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("3232")\' at line 1')
+2019-06-06 16:46:53,007 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("仍")\' at line 1')
+2019-06-06 16:46:56,648 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("仍")\' at line 1')
+2019-06-06 16:48:13,514 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("仍")\' at line 1')
+2019-06-06 16:48:40,297 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("仍")\' at line 1')
+2019-06-06 16:48:55,289 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'"value") values("仍")\' at line 1')
+2019-06-06 16:51:59,916 mysql_pz.py[line:19] ERROR 错误原因'Cursor' object has no attribute 'commit'
+2019-06-06 17:16:27,372 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'updata infor valued id="3" where id=lxl\' at line 1')
+2019-06-06 17:16:43,999 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'id="3" where id=lxl\' at line 1')
+2019-06-06 17:16:47,384 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'id="3" where id=lxl\' at line 1')
+2019-06-06 17:16:59,630 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'id="3" where id=lxl\' at line 1')
+2019-06-06 17:17:18,295 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'value="lxl" where id=3\' at line 1')
+2019-06-06 17:17:41,353 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'value="lxl" where id=3\' at line 1')
+2019-06-06 17:18:21,516 mysql_pz.py[line:19] ERROR 错误原因(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'value="lxl" where id=3\' at line 1')
+2019-06-09 10:58:41,747 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 10:58:41,777 test_budgget1.py[line:22] ERROR test_10出现错误login() missing 1 required positional argument: 'self'
+2019-06-09 10:58:41,777 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 10:58:59,659 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 10:58:59,916 test_budgget1.py[line:24] INFO {'data': {'access_token': '154e6d48-8325-48dc-b207-f2ce3cd77fb3', 'expires_in': '1560055139743', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'c6da47d2-cde6-4f5e-a9d1-d78fc5044271', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049139814', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 10:58:59,916 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:00:13,669 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:00:13,989 test_budgget1.py[line:24] INFO {'data': {'access_token': '8881bc69-6c60-434f-b6f0-44c56dc02679', 'expires_in': '1560055213703', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'ef172054-de0d-4c7e-9af0-f2683049a2ce', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049213801', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:00:13,990 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:00:38,807 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:00:38,978 test_budgget1.py[line:24] INFO {'data': {'access_token': '882e1f83-fb0b-4ae6-8949-db1551e906bb', 'expires_in': '1560055238847', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '39f4a35b-45db-4bc6-92ca-3c7b472381bc', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049238892', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:00:38,979 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:01:37,218 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:01:37,528 test_budgget1.py[line:24] INFO {'data': {'access_token': '788e1efd-914f-4bc1-8945-c436d094363f', 'expires_in': '1560055297268', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '10d1f796-fd16-4853-8cce-9a136e820de0', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049297395', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:01:37,528 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:01:43,236 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:01:43,411 test_budgget1.py[line:24] INFO {'data': {'access_token': 'e1d694e4-2852-4130-b01d-5b5ffb696dec', 'expires_in': '1560055303272', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '30e04f3b-9bb7-410d-be21-a679a079714a', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049303317', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:01:43,411 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:02:47,576 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:02:47,742 test_budgget1.py[line:24] INFO {'data': {'access_token': 'aba4659a-8f6a-46cd-9ad2-4938b8ff406f', 'expires_in': '1560055367613', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'a5d6fc03-259e-40de-9140-540ed528d8d2', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049367674', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:02:47,742 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:03:02,021 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:03:03,498 test_budgget1.py[line:20] INFO {'data': {'access_token': 'ae470d30-ea74-4f5e-981b-2a41fcd2c9f1', 'expires_in': '1560055383298', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'c638440a-3300-41f0-b949-d64cfb8e9846', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049383347', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:03:03,498 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:03:16,708 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:03:16,923 test_budgget1.py[line:20] INFO {'data': {'access_token': 'cfc3c19e-9fa7-4a2a-96f8-0c24e9e70746', 'expires_in': '1560055396749', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '01e84c4e-e3a0-42de-9729-c6430e9c7836', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049396796', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:03:16,923 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:03:26,863 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:03:27,388 test_budgget1.py[line:20] INFO {'data': {'access_token': 'dbd799ff-0c1b-49a2-8f94-9a19b8a681b1', 'expires_in': '1560055407043', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '7c5d6785-f36c-4d3e-befd-76514963436d', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049407098', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:03:27,388 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:03:35,814 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:03:35,814 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:04:27,517 test_budgget1.py[line:14] INFO ======测试开始======
+2019-06-09 11:04:27,752 test_budgget1.py[line:20] INFO {'data': {'access_token': '7f283381-a09a-4d68-bf8f-e0f3699dbe6f', 'expires_in': '1560055467561', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'ae387acd-bfca-40cb-82f0-b25c1ea012f2', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560049467608', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:04:27,753 test_budgget1.py[line:16] INFO ======测试结束======
+2019-06-09 11:24:02,619 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:24:02,834 test_budgget1.py[line:21] INFO {'data': {'access_token': 'e19739e1-2406-4cfe-bde2-facd9575199d', 'expires_in': '1560056642709', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '3d3c3432-d63f-4860-9e65-9124d067e7c1', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560050642761', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:24:02,835 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:24:02,846 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:24:03,323 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:27:28,785 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:27:29,047 test_budgget1.py[line:21] INFO {'data': {'access_token': 'bf7199ac-d784-405f-8c49-c60a4117d9d8', 'expires_in': '1560056848836', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '641f8207-75fb-4a4f-9121-b7be510d3021', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560050848881', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:27:29,047 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:27:29,057 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:27:29,395 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:40,837 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:41,080 test_budgget1.py[line:21] INFO {'data': {'access_token': '2b8c5e2d-1999-4c7a-b7f7-da8b39783283', 'expires_in': '1560056980891', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '3a4efcaf-7d26-4592-9e9f-462765fcb622', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560050980937', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:29:41,080 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:41,085 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:41,446 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:41,457 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:41,568 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:57,439 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:58,839 test_budgget1.py[line:21] INFO {'data': {'access_token': 'd352d242-f21a-4add-955d-83846bdfeaa5', 'expires_in': '1560056997489', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '5b85b9aa-4f96-48b3-aae5-599f6c0a8371', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560050998027', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:29:58,839 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:58,843 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:59,066 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:29:59,086 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:29:59,266 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:20,241 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:20,439 test_budgget1.py[line:21] INFO {'data': {'access_token': 'c85b15b6-6010-4e42-9543-fdda2b155435', 'expires_in': '1560057020293', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'b12df1ac-42d1-4632-80e6-288bd388e9b5', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051020344', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:30:20,440 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:20,443 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:20,624 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:20,646 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:21,410 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:35,419 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:35,668 test_budgget1.py[line:21] INFO {'data': {'access_token': '9b4f8f0e-66e4-4705-9c30-ccd1dc285cf7', 'expires_in': '1560057035471', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'e8c1e669-4d06-4538-87ed-4279d1f55745', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051035540', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:30:35,669 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:35,673 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:35,826 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:30:35,841 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:30:35,941 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:31:43,948 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:31:44,366 test_budgget1.py[line:21] INFO {'data': {'access_token': '0879270a-176d-4449-9791-47e1d3d3b16c', 'expires_in': '1560057103994', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '181c0c4e-41e4-4436-a29d-ecdcb8482ca1', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051104291', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:31:44,367 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:31:44,375 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:31:44,565 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:31:44,581 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:31:44,760 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:32:29,484 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:32:29,748 test_budgget1.py[line:21] INFO {'data': {'access_token': '3432e0f9-e0de-4c65-bc0c-25eb54ca4013', 'expires_in': '1560057149539', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'd12194cf-eb09-4cf6-bfee-2b5b086287c3', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051149604', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:32:29,748 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:32:29,751 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:32:30,931 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:32:30,946 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:32:32,151 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:38,000 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:38,248 test_budgget1.py[line:21] INFO {'data': {'access_token': '67d61800-2219-46d1-b9f2-65d75a7312ba', 'expires_in': '1560057218083', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'b6a926a8-b4d2-46e8-9646-8150663238ee', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051218130', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:33:38,248 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:38,253 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:38,419 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:38,433 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:38,556 test_budgget1.py[line:44] ERROR '''基础模板创建失败接口1'''用例执行失败Expecting value: line 1 column 1 (char 0)
+2019-06-09 11:33:38,557 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:41,751 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:41,895 test_budgget1.py[line:21] INFO {'data': {'access_token': '2c403c7a-eb47-4c31-8d00-702a292baf91', 'expires_in': '1560057221804', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'e67af4a3-c2ef-42df-878d-8d9b4d7a4bc6', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051221849', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:33:41,895 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:41,900 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:42,026 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:33:42,040 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:33:42,136 test_budgget1.py[line:44] ERROR '''基础模板创建失败接口1'''用例执行失败Expecting value: line 1 column 1 (char 0)
+2019-06-09 11:33:42,136 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:00,042 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:00,461 test_budgget1.py[line:21] INFO {'data': {'access_token': '18d399f2-9df3-4f64-8f06-2f41deb7896b', 'expires_in': '1560057240289', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '3f779f04-4602-4b2d-a5af-bd14ad902d29', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051240374', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:34:00,461 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:00,465 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:01,610 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:01,624 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:02,808 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:08,044 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:08,194 test_budgget1.py[line:21] INFO {'data': {'access_token': 'ee12ed5a-c9c8-49bd-9ed7-4636840dd6ae', 'expires_in': '1560057248095', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'c3fbba41-afe9-48ce-be26-099907135aac', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560051248143', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 11:34:08,194 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:08,203 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:09,398 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 11:34:09,412 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 11:34:10,576 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:38:16,968 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:38:17,233 test_budgget1.py[line:21] INFO {'data': {'access_token': 'cae77cde-2984-4c02-a156-41c7ee8fae7a', 'expires_in': '1560064696443', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'a91e975f-8241-4f9c-8b02-af6d035e10d1', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560058696489', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 13:38:17,233 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:38:17,238 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:38:18,418 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:38:18,423 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:38:19,556 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:39:07,172 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:39:07,425 test_budgget1.py[line:21] INFO {'data': {'access_token': '89b75813-d4be-4513-a6f5-5c83037d9be9', 'expires_in': '1560064746617', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '5b09bc6d-8e6d-497c-9b9d-c59d8e9271f9', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560058746674', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 13:39:07,425 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:39:07,428 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:39:08,589 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 13:39:08,600 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 13:39:09,764 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:17,279 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:04:18,239 test_budgget1.py[line:21] INFO {'data': {'access_token': '8537ee89-0e9c-4ecf-a5bd-d5984604aec3', 'expires_in': '1560066257467', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '105ba966-d6ca-440e-b58d-54fc9acb83ad', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060257560', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:04:18,240 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:18,244 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:04:19,537 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:19,549 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:04:20,930 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:57,929 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:04:58,275 test_budgget1.py[line:21] INFO {'data': {'access_token': 'e3a055b5-5542-4e07-9f94-bda31f92c980', 'expires_in': '1560066297547', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '510b659b-f3ea-43a8-9d0d-f2fd90254cf2', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060297595', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:04:58,275 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:58,278 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:04:59,519 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:04:59,535 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:00,902 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:36,350 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:36,758 test_budgget1.py[line:21] INFO {'data': {'access_token': '07f0a551-0165-4efc-b702-ac67a3a04653', 'expires_in': '1560066336024', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '6635663a-93cc-4f34-8e32-5a7ab717feda', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060336080', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:05:36,759 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:36,768 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:37,794 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:37,809 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:39,547 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:43,765 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:44,126 test_budgget1.py[line:21] INFO {'data': {'access_token': '8e20099e-b1d1-4332-8f57-77a3a78a0317', 'expires_in': '1560066343424', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '591c5de0-0761-4637-ae5c-530b7ed64fa4', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060343473', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:05:44,126 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:44,130 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:45,519 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:45,529 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:46,800 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:50,026 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:50,442 test_budgget1.py[line:21] INFO {'data': {'access_token': '3e359dd4-8d8c-4162-a42e-abbea97572b0', 'expires_in': '1560066349681', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'd3a7956e-60ad-4dd2-bc96-017e31bd6ca7', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060349731', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:05:50,443 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:50,450 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:51,629 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:05:51,644 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:05:53,026 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:00,089 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:00,292 test_budgget1.py[line:21] INFO {'data': {'access_token': '0f6cd7ac-470b-4777-81b3-ae6cdebdc9a3', 'expires_in': '1560066359542', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '8e1fd4be-26f8-4693-9c29-f6161f28b4d4', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060359588', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:00,293 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:00,297 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:00,542 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:00,557 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:00,882 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:05,049 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:05,469 test_budgget1.py[line:21] INFO {'data': {'access_token': '281ea209-7147-42ce-99c6-478abc06d3ff', 'expires_in': '1560066364693', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'da27898e-95bc-4b8c-87f0-926485f8f62a', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060364781', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:05,469 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:05,474 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:06,367 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:06,371 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:08,005 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:13,797 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:14,182 test_budgget1.py[line:21] INFO {'data': {'access_token': '49b95b82-1b48-4816-b33d-748a12a6fa32', 'expires_in': '1560066373440', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '5680a699-cf07-4035-b24c-d298d5dc8ecf', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060373491', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:14,182 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:14,186 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:15,194 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:15,208 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:15,729 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:19,062 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:19,484 test_budgget1.py[line:21] INFO {'data': {'access_token': '76ec387e-0274-437f-9ab1-28ade9f9df41', 'expires_in': '1560066378707', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '1cd604b4-59f4-4e3b-88d0-317ed6a7af73', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060378803', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:19,485 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:19,487 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:20,724 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:20,733 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:21,171 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:25,430 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:25,826 test_budgget1.py[line:21] INFO {'data': {'access_token': '52681c65-38ae-41ac-b71a-5779aac23c63', 'expires_in': '1560066385096', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '3aa1a8eb-d554-414b-b1c3-00927cb35098', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060385155', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:25,826 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:25,829 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:26,080 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:26,096 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:26,344 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:43,506 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:44,059 test_budgget1.py[line:21] INFO {'data': {'access_token': '830eff1c-b1ff-4d1f-b5f8-c40ce93291ef', 'expires_in': '1560066403275', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '54503543-fa51-455b-b2fc-8c3c7c445f7b', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060403384', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:44,060 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:44,064 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:44,323 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:44,337 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:45,404 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:55,891 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:56,267 test_budgget1.py[line:21] INFO {'data': {'access_token': '8700f3c2-3757-4756-868f-1796d2dc95cb', 'expires_in': '1560066415519', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '520090ce-a747-4e24-b04e-0622e57bab8c', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060415578', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:06:56,267 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:56,271 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:56,571 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:06:56,589 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:06:56,972 test_budgget1.py[line:45] ERROR '''基础模板创建失败接口1'''用例执行失败201 != 2011
+2019-06-09 14:06:56,972 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:46,719 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:47,218 test_budgget1.py[line:21] INFO {'data': {'access_token': '1de994d4-8e12-4d3a-9074-5f4f9d31bf3e', 'expires_in': '1560066526452', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '292eab9d-ec42-4e65-a29b-99b8a4993a00', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060526514', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:08:47,218 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:47,218 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:48,148 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:48,148 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:48,375 test_budgget1.py[line:45] ERROR '''基础模板创建失败接口1'''用例执行失败201 != 2011
+2019-06-09 14:08:48,375 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:55,659 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:56,826 test_budgget1.py[line:21] INFO {'data': {'access_token': '64e37f30-3f13-47d0-b931-aff9c3413b5d', 'expires_in': '1560066535336', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '0b81c414-7124-4dfc-8cf2-ecd1007d8484', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060535844', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:08:56,826 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:56,827 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:57,124 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:08:57,124 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:08:57,393 test_budgget1.py[line:45] ERROR '''基础模板创建失败接口1'''用例执行失败201 != 2011
+2019-06-09 14:08:57,393 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:10:40,116 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:10:40,456 test_budgget1.py[line:21] INFO {'data': {'access_token': 'a97b476f-c9ee-40a9-921f-f4c586b3917c', 'expires_in': '1560066639668', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'f770f188-86fb-4600-b023-485bc13d893f', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060639751', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:10:40,456 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:10:40,456 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:10:40,709 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060640095, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:10:40,709 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:10:40,710 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:10:40,932 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060640318, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:10:40,933 test_budgget1.py[line:46] ERROR '''基础模板创建失败接口1'''用例执行失败201 != 2011
+2019-06-09 14:10:40,933 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:11:23,415 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:11:23,687 test_budgget1.py[line:21] INFO {'data': {'access_token': 'eabfbe63-1204-4787-8df0-d6d5b6a235f2', 'expires_in': '1560066682877', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '62df7b71-6111-4835-ab43-14200a8c1a6e', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060682936', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:11:23,687 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:11:23,687 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:11:23,850 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060683238, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:11:23,850 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:11:23,850 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:11:23,963 test_budgget1.py[line:40] ERROR '''基础模板创建失败接口1'''用例执行失败Expecting value: line 1 column 1 (char 0)
+2019-06-09 14:11:23,963 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:00,691 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:00,902 test_budgget1.py[line:21] INFO {'data': {'access_token': '2b084b40-5908-4f33-8119-dd6b232eb2e1', 'expires_in': '1560066720157', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '79abe46f-4155-40cd-8335-e6c9eb059b76', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060720226', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:12:00,902 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:00,903 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:01,052 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060720450, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:12:01,052 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:01,052 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:01,150 test_budgget1.py[line:40] ERROR '''基础模板创建失败接口1'''用例执行失败Expecting value: line 1 column 1 (char 0)
+2019-06-09 14:12:01,150 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:16,660 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:17,044 test_budgget1.py[line:21] INFO {'data': {'access_token': '31c65e27-5cb4-4176-9501-bd26c36b0d81', 'expires_in': '1560066736238', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': 'bba4ea38-33d6-43df-9957-b79a68e0703f', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060736353', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:12:17,044 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:17,044 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:17,749 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060737144, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:12:17,749 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:12:17,750 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:12:18,539 test_budgget1.py[line:37] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060737919, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:12:18,540 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:13:54,924 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:13:55,214 test_budgget1.py[line:21] INFO {'data': {'access_token': '5c38d10b-6b9d-4c32-8311-68317c4bc72e', 'expires_in': '1560066834382', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '2ee75da8-61fa-4ae3-845d-27aeb8f5975a', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060834433', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:13:55,214 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:13:55,214 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:13:55,396 test_budgget1.py[line:36] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060834787, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:13:55,396 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:13:55,396 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:13:55,508 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:14:48,931 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:14:49,129 test_budgget1.py[line:21] INFO {'data': {'access_token': '381fad3a-d48b-4767-8464-9752a96b7a4d', 'expires_in': '1560066888427', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '5fe82f0d-0948-4aff-867e-28f5409a90fc', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060888477', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:14:49,129 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:14:49,129 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:14:49,775 test_budgget1.py[line:36] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060889173, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:14:49,776 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:14:49,776 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:14:50,436 test_budgget1.py[line:36] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060889828, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:14:50,436 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:15:13,897 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:15:14,114 test_budgget1.py[line:21] INFO {'data': {'access_token': '64cae640-6d6e-4acb-b959-bd3a589db868', 'expires_in': '1560066913357', 'hasBindingPhone': 'true', 'hasPassword': 'true', 'message': 'success', 'refresh_token': '3e5995da-b172-4b91-9a25-e5d5de3c5dbf', 'scope': '', 'token_type': ''}, 'httpCode': '200', 'msg': 'OK', 'timestamp': '1560060913406', 'statusCode': '200', 'title': '操作提示', 'message': 'OK'}
+2019-06-09 14:15:14,114 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:15:14,114 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:15:15,661 test_budgget1.py[line:36] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060915041, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:15:15,662 test_budgget1.py[line:17] INFO ======测试结束======
+2019-06-09 14:15:15,662 test_budgget1.py[line:15] INFO ======测试开始======
+2019-06-09 14:15:16,418 test_budgget1.py[line:36] INFO {'httpCode': 201, 'msg': '模板保存失败', 'err': '模板保存失败 ', 'timestamp': 1560060915708, 'statusCode': 300, 'message': '模板保存失败 ', 'title': '操作提示'}
+2019-06-09 14:15:16,418 test_budgget1.py[line:17] INFO ======测试结束======
